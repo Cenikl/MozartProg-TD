@@ -1,5 +1,7 @@
 package com.spring.projectspring;
 
+import com.spring.projectspring.ConcreteDependancies.ConcreteDependance1;
+import com.spring.projectspring.ConcreteDependancies.ConcreteDependance2;
 import org.springframework.stereotype.Component;
 
 @Component

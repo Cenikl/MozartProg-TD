@@ -1,4 +1,4 @@
-package com.spring.projectspring;
+package com.spring.projectspring.ConcreteDependancies;
 
 import org.springframework.stereotype.Component;
 
